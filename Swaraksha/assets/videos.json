@@ -1,0 +1,17 @@
+[
+  {
+    "thumbnail": "assets/thumbnails/video1.jpg",
+    "title": "Video 1",
+    "description": "This is the first video description."
+  },
+  {
+    "thumbnail": "assets/thumbnails/video2.jpg",
+    "title": "Video 2",
+    "description": "This is the second video description."
+  },
+  {
+    "thumbnail": "assets/thumbnails/video3.jpg",
+    "title": "Video 3",
+    "description": "This is the third video description."
+  }
+]
